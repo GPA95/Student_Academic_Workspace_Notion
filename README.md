@@ -21,11 +21,6 @@ Then click the **“Duplicate”** button at the top-right to copy it into your 
 
 ---
 
-## Workspace Design
-<img width="7192" height="1828" alt="Student-Academic-Workspace-Notion" src="https://github.com/user-attachments/assets/3dc0fd52-f8fd-41f6-a52c-fa2d2b4578cb" />
-
----
-
 ## 🧰 Features
 
 ✅ Clean **weekly timetable** (static version) with color-coded cells  
